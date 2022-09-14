@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7ed59310.css","mappings":"AAAA,OACI,cACJ,CAEA,QACI,eACJ","sources":["style/Home.css"],"sourcesContent":[".redBG { \r\n    background: red;\r\n}\r\n\r\n.blueBG { \r\n    background: blue;\r\n}"],"names":[],"sourceRoot":""}
