@@ -16,7 +16,7 @@ import {
   
   return (
         <>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
           {isLogined && <Navigation />}
             <Routes>
               <Route path='/' element={<Home />} />
