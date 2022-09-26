@@ -1,7 +1,11 @@
-.redBG { 
-    background: red;
+.home_container {
+    margin: 30px 60px;
+    padding: 20px 40px;
+    background: gold;
 }
 
-.blueBG { 
-    background: blue;
+.home_title {
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
 }
